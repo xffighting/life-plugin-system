@@ -1,0 +1,6 @@
+# GitHub 赞助配置
+# 1) GitHub Sponsors：需先到 github.com/sponsors 为账号 xffighting 开通，开通后下方按钮自动出现
+github: [xffighting]
+
+# 2) 爱发电（国内主渠道）：开通后取消注释并替换为你的主页
+# custom: ["https://afdian.com/a/你的ID"]

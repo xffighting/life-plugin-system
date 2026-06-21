@@ -84,7 +84,7 @@ RPG 里你不会把点数全加在攻击力上。现实里我们却常常只点"
 
 ## 为什么它"用十年也不乱"
 
-普通模板三个月就成垃圾场,因为没有治理。这套自带免疫系统:概念字典消灭模糊词、入网七步约束每份新内容、健康度指标定期体检(孤立节点 < 5%、目标-项目连接率 100%)。**越用越清晰,而不是越用越乱。** 想看工程内核 → [docs/architecture.md](docs/architecture.md)。
+普通模板三个月就成垃圾场,因为没有治理。这套自带免疫系统:概念字典消灭模糊词、入网七步约束每份新内容、健康度指标定期体检(孤立节点 < 5%、目标-项目连接率 100%)。**越用越清晰,而不是越用越乱。** 想看工程内核 → [docs/architecture.md](docs/architecture.md);数据结构(双轨制)→ [docs/schemas.md](docs/schemas.md)。
 
 隐私默认本地:五级隐私 + 白名单导出 + fail-closed。**真实人生数据永远留在你本地,公开的只有方法与模板。**
 
@@ -147,7 +147,7 @@ governance/    贡献规范、安全与隐私
 
 **努力会过期,系统会复利。**
 
-⭐ Star 追踪更新 · 🍴 Fork 你自己的 stack · 🛠 [提交你的模块](governance/CONTRIBUTING.md) · ☕ Sponsor 让它长得更快
+⭐ Star 追踪更新 · 🍴 Fork 你自己的 stack · 🛠 [提交你的模块](governance/CONTRIBUTING.md) · ☕ [Sponsor](governance/SPONSORS.md) 让它长得更快
 
 一起,把人生玩成开挂模式。
 

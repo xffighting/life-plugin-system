@@ -1,0 +1,7 @@
+id,type,title,domain,status,privacy,parent,related,created,updated
+GOAL-示例-三个月跑通副业最小闭环,goal,三个月跑通副业最小闭环,事业发展,active,public,15_目标罗盘,PROJECT-示例-上线一个落地页,2026-01-10,2026-03-01
+PROJECT-示例-上线一个落地页,project,上线一个落地页,事业发展,active,public,20_行事务,GOAL-示例-三个月跑通副业最小闭环,2026-01-15,2026-02-20
+PERSON-示例-张示例,person,张示例,人际关系,active,private,35_人际经纬,PROJECT-示例-上线一个落地页,2026-01-20,2026-02-15
+REVIEW-示例-周复盘-2026W08,review,周复盘2026W08,复盘,done,public,70_四时复盘,GOAL-示例-三个月跑通副业最小闭环,2026-02-22,2026-02-22
+KASSET-示例-落地页转化要点,knowledge_asset,落地页转化要点,学习成长,active,public,40_知行成库,PROJECT-示例-上线一个落地页,2026-02-18,2026-02-18
+ASKILL-示例-每日复盘,agent_skill,每日复盘,复盘,active,public,45_能力资产,REVIEW-示例-周复盘-2026W08,2026-01-12,2026-02-10
