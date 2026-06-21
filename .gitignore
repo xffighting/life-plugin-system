@@ -1,0 +1,25 @@
+# 操作系统/编辑器
+.DS_Store
+*.tmp
+*.bak
+*.backup
+*.log
+
+# 密钥与环境
+.env
+.env.*
+*.key
+*.pem
+
+# Obsidian 工作区本地状态（含本地路径，不应公开）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# 任何"我的真实数据"都不应进入这个公开仓库
+# 贡献者请把私人 Vault 放在本仓库之外，这里只放通用模板与脱敏示例
+my-vault/
+private/
+*.private.md
+*.脱敏.md
